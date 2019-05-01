@@ -1,0 +1,35 @@
+#M-itmes li{
+	font-family: verdana,georgia,serif;
+	float: left;
+	/* right: 0px;
+	top: 0px; */
+	padding: 17px 8px;
+	list-style: none;
+	cursor: pointer;
+	color: white;
+
+}
+#M-itmes{
+	float: right;
+}
+#M-itmes li:hover{
+	/* text-decoration: underline; */
+	border-bottom:1px solid silver;
+	padding: 15px 8px;
+
+}
+#logo{
+	height: 60px;
+
+}
+#nav-menu{
+	background-color: #ABB0B4;
+	box-shadow: 0 0 8px black;
+}
+#nav-bottom{
+	background-color: rgba(0,0,0,0.186);
+	border-top: 10px solid  rgba(0,0,0,0.5);
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	margin-top: 160px;
+}

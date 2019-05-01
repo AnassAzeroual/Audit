@@ -1,0 +1,58 @@
+#directions-panel{
+	padding: 18px 8px 25px 18px;
+	border-radius: 8px;
+	text-align:center;
+}
+#map{
+	height: 1000px;
+	width: 746px;
+}
+#limit-width{
+	/* border:1px solid red; */
+	width: 1160px;
+}
+#h-div{
+		background-color: #58616A;
+		color: silver;
+		height: 60px;
+		border-top-right-radius: 10px;
+		border-top-left-radius: 10px;
+}
+ #box{
+ 	/* border:2px solid red; */
+
+}
+#box-left{
+	width: 380px;
+	position: absolute;
+	height: 1000px;
+	overflow: hidden;
+	background-color:  	#e7e7e7;
+}
+#box-right{
+	position: relative;
+	margin-left: 34%;
+	padding: 0px;
+	height: 1000px;
+	z-index: 1;
+} 
+.ipt_1,.ipt_2{
+	height: 60px;
+	border:0px solid transparent;
+}
+.box-table{
+	padding: 10px;
+}
+#box-btn{
+	position: relative;
+	left: 2%;
+}
+#ajust-text{
+	padding-top: 10px;
+}
+.table{
+	background-color: white;
+}
+#input1,#input2,#input3,#input4{
+	border:1px solid transparent;
+}

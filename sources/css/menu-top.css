@@ -1,5 +1,5 @@
-#M-itmes li{
-	font-family: verdana,georgia,serif;
+#M-itmes li {
+	font-family: verdana, georgia, serif;
 	float: left;
 	/* right: 0px;
 	top: 0px; */
@@ -9,27 +9,39 @@
 	color: white;
 
 }
-#M-itmes{
+
+#M-itmes {
 	float: right;
 }
-#M-itmes li:hover{
+
+#M-itmes li:hover {
 	/* text-decoration: underline; */
-	border-bottom:1px solid silver;
+	border-bottom: 1px solid silver;
 	padding: 15px 8px;
 
 }
-#logo{
-	height: 60px;
 
+#logo {
+	height: 50px;
+	width: 80px;
+	transform: translateY(8px);
 }
-#nav-menu{
+
+#nav-menu {
 	background-color: #ABB0B4;
 	box-shadow: 0 0 8px black;
 }
-#nav-bottom{
-	background-color: rgba(0,0,0,0.186);
-	border-top: 10px solid  rgba(0,0,0,0.5);
+
+#nav-bottom {
+	background-color: rgba(0, 0, 0, 0.186);
+	border-top: 10px solid rgba(0, 0, 0, 0.5);
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
-	margin-top: 160px;
+	margin-top: 60px;
+}
+
+ol,
+ul {
+	margin-top: 0;
+	margin-bottom: 0px;
 }

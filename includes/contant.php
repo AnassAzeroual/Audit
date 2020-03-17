@@ -11,7 +11,7 @@
 
 <div class="container" id="limit-width">
 		<div id="h-div">
-			<p class="container"><p class="text-center h4 " id="ajust-text">Testez notre module de Agencemarrakech</p></p> 
+			<p class="container"><p class="text-center h4 " id="ajust-text"></p></p> 
 		</div>
 		<div class="" id="box">
 			<div id="box-left" class="">
